@@ -1,0 +1,15 @@
+{
+  "name": "com.pjvideogames.commonextensions",
+  "version": "0.0.1",
+  "displayName": "Common Extensions",
+  "description": "Extensions that I write for nearly every single project",
+  "unity": "2021.1",
+  "keywords": [
+    "extensions"
+  ],
+  "author": {
+    "name": "PJ Haye",
+    "email": "pj.haye@gmail.com"
+  },
+  "type": "module"
+}
