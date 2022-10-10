@@ -1,5 +1,5 @@
 {
-    "name": "pjvideogames.commonextensions.runtime",
+    "name": "PjVideoGames.CommonExtensions",
     "rootNamespace": "CommonExtensions",
     "references": [],
     "includePlatforms": [],
